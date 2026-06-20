@@ -120,10 +120,6 @@ export default async function CalendarPage() {
           )}
         </div>
 
-        <style jsx global>{`
-          .input { width: 100%; background: #1c1c1c; border: 1px solid #2a2a2a; border-radius: 10px; padding: 10px 12px; font-size: 14px; color: white; }
-          .input:focus { outline: 2px solid #22c55e; outline-offset: 1px; }
-        `}</style>
       </main>
     </div>
   );
